@@ -10,5 +10,11 @@ Like any persistent software on a Windows PC, Kaspersky Lab products also leave 
 
 # Tool: KLeaner
 
-*KLeaner* does the following actions:
+**KLeaner** does the following actions:
+
 - 
+
+
+## Disclaimer
+
+I have no affiliation with Kaspersky Lab, Mozilla Firefox or any of the mentioned other services or products. All rights belong to them. I'm still checking if a license is needed to distrubute these files. As this is a work in progress, many details are still missing. I'll be working on this as a side-project to update it with as much info as possible.
