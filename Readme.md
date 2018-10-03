@@ -10,12 +10,15 @@ Like any persistent software on a Windows PC, Kaspersky Lab products also leave 
 
 # Tool: KLeaner
 
-**KLeaner** does the following actions:
+Click [here](https://github.com/leoleogr/Kaspersky/raw/master/KLeaner/KLeaner.exe "Click here to download") to download KLeaner.
 
-- 
--
--
--
+**KLeaner** performs the following actions
+
+- It first elevates itself to get admin rights (this is to prevent for the user to right-click > run as admin).
+- It then changes the HOSTS file to the default MS Windows one.
+- It changes all the adapters to use DNS server 1.1.1.1 and backup 1.0.0.1
+- It cleans your temp folders (Win + R > temp & Win + R > %temp%
+- It then flushes your DNS and finally reboots your PC.
 
 
 
