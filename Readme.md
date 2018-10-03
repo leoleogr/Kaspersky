@@ -8,7 +8,7 @@ This repo is available for everyone who would like to use some tools to interact
 
 Please use the following steps:
 
-1/ XXXXXXXXXXXX
+1/ XXXXXXXXXXXX\n
 2/ XXXXXXXXXXXX
 3/ XXXXXXXXXXXX
 4/ XXXXXXXXXXXX
