@@ -25,4 +25,8 @@ Click [here](https://github.com/leoleogr/Kaspersky/raw/master/KLeaner/KLeaner.ex
 
 # Disclaimer
 
-I have no affiliation with Kaspersky Lab, Mozilla Firefox or any of the mentioned other services or products. All rights belong to them. I'm still checking if a license is needed to distrubute these files. As this is a work in progress, many details are still missing. I'll be working on this as a side-project to update it with as much info as possible.
+I have no affiliation with Kaspersky Lab, Mozilla Firefox or any of the mentioned other services or products. All rights belong to them. 
+
+# License
+
+Click [here](https://github.com/leoleogr/Kaspersky/blob/master/License.md "License") for the license.
